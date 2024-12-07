@@ -25,11 +25,11 @@ This project focuses on the estimation and analysis of State of Charge (SoC) in 
 
 4. **Modify the input parameters in the scripts to simulate different scenarios.**
 
-Technologies Used
+##Technologies Used
 MATLAB: For simulation and analysis of battery data.
 Git: For version control and collaboration.
 
-Future Enhancements
+##Future Enhancements
 
 Incorporate real-time SoC estimation using machine learning models.
 Add support for various battery chemistries.
