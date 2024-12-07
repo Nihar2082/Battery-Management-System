@@ -27,12 +27,12 @@ This project focuses on the estimation and analysis of State of Charge (SoC) in 
 
 ## Technologies Used
 
-MATLAB: For simulation and analysis of battery data.
-Git: For version control and collaboration.
+- MATLAB: For simulation and analysis of battery data.
+- Git: For version control and collaboration.
 
 ## Future Enhancements
 
-Incorporate real-time SoC estimation using machine learning models.
-Add support for various battery chemistries.
-Implement a graphical user interface (GUI) for better usability.
-Extend the analysis to include degradation modeling and lifecycle estimation.
+- Incorporate real-time SoC estimation using machine learning models.
+- Add support for various battery chemistries.
+- Implement a graphical user interface (GUI) for better usability.
+- Extend the analysis to include degradation modeling and lifecycle estimation.
