@@ -1,18 +1,23 @@
 Battery Management System
+
 Description
+
 This project focuses on the estimation and analysis of State of Charge (SoC) in batteries under varying conditions, such as temperature, road types, load variations, and speed profiles. It aims to provide insights into battery performance and efficiency, facilitating better battery management in electric vehicles and other applications.
 
 Features
-Accurate SoC estimation under dynamic conditions.
-Analysis of temperature effects on battery performance.
-Comparison of efficiency across different speed profiles.
-Simulation of battery performance under varied road conditions.
-Load variation analysis considering weight and speed changes.
+
+* Accurate SoC estimation under dynamic conditions.
+* Analysis of temperature effects on battery performance.
+* Comparison of efficiency across different speed profiles.
+* Simulation of battery performance under varied road conditions.
+* Load variation analysis considering weight and speed changes.
+
 How to Use
-Clone the repository:
-bash
-Copy code
-git clone https://github.com/Nihar2082/Battery-Management-System.git
+
+1. Clone the repository:
+
+	git clone https://github.com/Nihar2082/Battery-Management-System.git
+
 Open MATLAB and navigate to the project folder.
 Run the desired .m file for specific analyses:
 SoC_Drain_Analysis_under_Varying_Temperature_Effects.m
